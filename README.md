@@ -12,6 +12,6 @@ sudo docker-compose up -d
 
 ### 新
 ```
-docker-compose build --no-cache # コンテナをビルド
-docker-compose up -d # そして起動
+docker-compose build --no-cache
+docker-compose up -d
 ```
